@@ -1,0 +1,10 @@
+D:\CSharpCode\other\WOWAutoFishing\WOWAutoFishing\obj\Debug\WOWAutoFishing.csprojAssemblyReference.cache
+D:\CSharpCode\other\WOWAutoFishing\WOWAutoFishing\obj\Debug\WOWAutoFishing.Form1.resources
+D:\CSharpCode\other\WOWAutoFishing\WOWAutoFishing\obj\Debug\WOWAutoFishing.Properties.Resources.resources
+D:\CSharpCode\other\WOWAutoFishing\WOWAutoFishing\obj\Debug\WOWAutoFishing.csproj.GenerateResource.cache
+D:\CSharpCode\other\WOWAutoFishing\WOWAutoFishing\obj\Debug\WOWAutoFishing.csproj.CoreCompileInputs.cache
+D:\CSharpCode\other\WOWAutoFishing\WOWAutoFishing\bin\Debug\WOWAutoFishing.exe.config
+D:\CSharpCode\other\WOWAutoFishing\WOWAutoFishing\bin\Debug\WOWAutoFishing.exe
+D:\CSharpCode\other\WOWAutoFishing\WOWAutoFishing\bin\Debug\WOWAutoFishing.pdb
+D:\CSharpCode\other\WOWAutoFishing\WOWAutoFishing\obj\Debug\WOWAutoFishing.exe
+D:\CSharpCode\other\WOWAutoFishing\WOWAutoFishing\obj\Debug\WOWAutoFishing.pdb
